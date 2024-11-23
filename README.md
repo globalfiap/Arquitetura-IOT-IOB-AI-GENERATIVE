@@ -1,6 +1,5 @@
 # EcoDrive - Machine Learning
 
-### GitHub: https://github.com/globalfiap/Arquitetura-IOT-IOB-AI-GENERATIVE 
 ## Integrantes
 - Sabrina - RM: (Coloque o RM)
 - Matheus Duarte Oliveira - RM: (Coloque o RM)
@@ -74,4 +73,6 @@ O uso dessas ferramentas permitiu:
 - Modelos robustos que podem ser integrados diretamente ao sistema do EcoDrive para melhorar a experiência dos motoristas.
 
 ## Links Úteis
+- Documentação do Projeto: Miro Board
+- Apresentação do Projeto: Vídeo no YouTube
 - [Pitch de Apresentação do Projeto](https://youtu.be/HrFmGBe4v9A)
