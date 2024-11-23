@@ -1,9 +1,9 @@
 # EcoDrive - Machine Learning
 
 ## Integrantes
-- Sabrina - RM: (Coloque o RM)
-- Matheus Duarte Oliveira - RM: (Coloque o RM)
-- Luis Henrique Oliveira da Silva - RM: (Coloque o RM)
+- Sabrina - RM: (553568)
+- Matheus Duarte Oliveira - RM: (554199)
+- Luis Henrique Oliveira da Silva - RM: (552692)
 
 ## Descrição do Projeto
 O EcoDrive é um sistema de planejamento de rotas para motoristas de veículos elétricos, com o objetivo de otimizar a utilização das estações de carregamento e minimizar o impacto da baixa autonomia dos veículos. O projeto utiliza Machine Learning para fornecer informações precisas e relevantes aos motoristas, como:
@@ -73,6 +73,6 @@ O uso dessas ferramentas permitiu:
 - Modelos robustos que podem ser integrados diretamente ao sistema do EcoDrive para melhorar a experiência dos motoristas.
 
 ## Links Úteis
-- Documentação do Projeto: Miro Board
-- Apresentação do Projeto: Vídeo no YouTube
+- **Documentação do Projeto**: [Miro Board](https://miro.com/welcomeonboard/V2NOUThhVkZWb3F5YVhPcHlKZ1lEYjMxdVF6bzBFbDJDL21wdE5OcFAzb1M4SSt1cm5uNTFldGI2SE1tZGo2ZFNMbTZIcUx0ZzBwdGlWemtQSjNVamVTblNRd0hWWWw2clpGd0Rwd0JXMmQ0S1RHelhxMHZ2VUZwdHFUWWJuTGwhZQ==?share_link_id=468499909302)
+- **Apresentação do Projeto**: [Vídeo no YouTube](https://www.youtube.com/watch?v=8bzh6oU2oPI)
 - [Pitch de Apresentação do Projeto](https://youtu.be/HrFmGBe4v9A)
