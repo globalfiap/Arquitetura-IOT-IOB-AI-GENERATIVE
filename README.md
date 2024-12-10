@@ -73,6 +73,6 @@ O uso dessas ferramentas permitiu:
 - Modelos robustos que podem ser integrados diretamente ao sistema do EcoDrive para melhorar a experiência dos motoristas.
 
 ## Links Úteis
-- **Documentação do Projeto**: [Miro Board](https://miro.com/welcomeonboard/V2NOUThhVkZWb3F5YVhPcHlKZ1lEYjMxdVF6bzBFbDJDL21wdE5OcFAzb1M4SSt1cm5uNTFldGI2SE1tZGo2ZFNMbTZIcUx0ZzBwdGlWemtQSjNVamVTblNRd0hWWWw2clpGd0Rwd0JXMmQ0S1RHelhxMHZ2VUZwdHFUWWJuTGwhZQ==?share_link_id=468499909302)
+- **Documentação do Projeto**: [Miro Board](https://miro.com/app/board/uXjVLHL8-v4=/?share_link_id=73493550302)
 - **Apresentação do Projeto**: [Vídeo no YouTube](https://www.youtube.com/watch?v=8bzh6oU2oPI)
 - [Pitch de Apresentação do Projeto](https://youtu.be/HrFmGBe4v9A)
